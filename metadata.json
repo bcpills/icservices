@@ -1,0 +1,6 @@
+{
+  "name": "Inner Banks Landscaping and Labor",
+  "description": "Full-service coastal landscaping, high-pressure washing, dock & deck restoration, boat detailing, and skilled outdoor labor across the North Carolina Inner Banks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
